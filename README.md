@@ -1,4 +1,4 @@
-Hi , I'm Idan
+# Hi :wave:, I'm Idan
 I'm a Full Stack Web Developer and Software Engineering student
 👨‍🎓 About Me
 🔭 I work as a Full Stack Developer at Defence Industry.
