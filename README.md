@@ -46,13 +46,13 @@
 
 <h2>📞 Contact Me</h2>
 <div>
-<a href="discordapp.com/users/idan3815">
+<a href="discordapp.com/users/339798158307753984">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/idan-sharvit/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="mailto:idan8122@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
 </div>
