@@ -7,7 +7,7 @@
 <h2>👨‍🎓 About Me</h2>
 <br>
 <ul>
-<li>🔭 I work as a Full Stack Developer at Defence Industry.</li> 
+<li>🔭 I work as a Full Stack Developer.</li> 
 <li>🌱 I’m currently learning Software Engineering (B.Sc.) at The Open University of Israel.</li>
 <li>🌎 I'm living in Israel.</li>
 <li>📫 Feel free to contact me about MEAN stack, NestJS, or any tech-related topics.</li>
